@@ -1,0 +1,15 @@
+{
+  tags: {
+    mc: {
+      name: "minecraft"
+    }
+  },
+  nontags: {
+    ksp: {
+      name: "Kerbal Space Program"
+    },
+    intro: {
+      name: "intro"
+    }
+  }
+}

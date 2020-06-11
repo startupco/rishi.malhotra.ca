@@ -1,0 +1,8 @@
+{
+  home: {
+    url: "/index.html"
+  },
+  blog: {
+    url: "/blog.html"
+  }
+}
