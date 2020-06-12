@@ -1,13 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Rishi KSP & MC</title>
+  <title>rishi.malhotra.ca: home</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <style>
+    body,h1,h2,h3,h4,h5 {
+      font-family: "Raleway", sans-serif
+    }
+  </style>
 </head>
 <body>
 
+<style>
+  #navbar {
+    background-color: rgb(192, 192, 192)
+  }
+</style>
+<div class="w3-top">
+  <div id="navbar" class="w3-xlarge" style="margin:auto;max-height:60px">
+    <a href="/blog.html"><div class="w3-right w3-padding-large">Blog</div></a>
+    <a href="/"><div class="w3-left w3-padding-large">rishi.malhotra.ca</div></a>
+    <a href="/2020/06/11/welcome.html"><div class="w3-center w3-padding-16">Welcome</div></a>
+  </div>
+</div>
+<hr>
+<hr>
+<script>
+  document.getElementById("navbar").style.maxWidth = screen.width
+</script>
+
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    
+    <div class="carousel-item">
+      <video class="svideo"
+        src=video1.mp4
+        autoplay
+        loop
+        controls
+      ><img src=videoposter.jpg></video>
+    </div>
+    
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+<div class="container-fluid bg-3 text-center">
+  <div class="row">
+    <div class="col-sm-3">
+      <p>Some text..</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Some text..</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Some text..</p>
+    </div>
+    <div class="col-sm-3">
+      <p>Some text..</p>
+    </div>
+  </div>
+</div><br>
+<script type="text/javascript">
+  $('.carousel').carousel()
+  $('.svideo').css("height", screen.width + "px")
+</script>
 </body>
 </html>
