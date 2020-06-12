@@ -1,6 +1,33 @@
 ---
-layout: "default"
+title: "blog"
 ---
-{% for post in site.posts %}
-    <h2><a href={{ post.url }}>{{ post.title }}</a> by {{ post.author }}</h2>
-{% endfor %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ page.title }}: rishi.alhotra.ca</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karma">
+    <style>
+      body,h1,h2,h3,h4,h5,h6 {
+        font-family: "Karma", sans-serif
+      }
+      .w3-bar-block .w3-bar-item {
+        padding:20px
+      }
+    </style>
+  </head>
+  <body>
+    <!-- !PAGE CONTENT! -->
+    {% for post in site.posts %}
+      <div class="w3-row-padding w3-padding-16 w3-center" id="food">
+        <a href={{ post.url }}><div class="w3-quarter">
+          <h3>{{ post.title }} by {{ post.author }}</h3>
+          <p>{{ post.about }}</p>
+        </div></a>
+      </div>
+    {% endfor %}
+    <!-- End page content -->
+  </body>
+</html>
