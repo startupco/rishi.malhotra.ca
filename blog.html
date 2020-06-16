@@ -18,6 +18,8 @@ title: "blog"
   <body>
     {% include navigation.html %}
     <!-- !PAGE CONTENT! -->
+    <hr>
+    <hr>
     {% for post in site.posts %}
       <a href={{ post.url }}><div class="w3-quarter">
         <h3>{{ post.blogtitle }} by {{ post.author }}</h3>
