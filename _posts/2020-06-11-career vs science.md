@@ -3,8 +3,7 @@ layout: post
 title: "Career vs Science"
 blogtitle: "KSP Career vs Science mode"
 titledescription: "Which one is better career or science"
-tags: site.data.ksp.tags
-nontags: site.data.ksp.nontags
+tags: ksp
 author: rishi
 ---
 Well with ksp 1.8 deltaV Requirements and being a beginner science can be your first save then carrer then sandbox
