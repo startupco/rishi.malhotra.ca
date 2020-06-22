@@ -2,7 +2,7 @@
 layout: post
 title: "happy fathers day to ajay"
 blogtitle: "Happy fathers day Ajay"
-titledescription: "intro to the site"
+titledescription: "happy fathers day to ajay"
 tags: intro
 author: rishi
 ---
