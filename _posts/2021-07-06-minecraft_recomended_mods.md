@@ -8,7 +8,7 @@ author: rishi
 ---
 So you want some mods for minecraft well you have come to the right place. Enough of this blabbering lets get right in.<br>
 <br>
-[Quark](https://www.curseforge.com/minecraft/mc-mods/quark, "Quark"<br>
+[Quark](https://www.curseforge.com/minecraft/mc-mods/quark "Quark")<br>
 adding new feautures, blocks and items you can't forget it<br>
 <br>
 [Optifine](https://optifine.net/downloads "Optifine")<br>
