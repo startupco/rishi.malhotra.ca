@@ -31,6 +31,10 @@ black hole, tanks, units, controllers this is sure to make sorting items and liq
 want one area so store all your items and craft while your at it this is the mod for you adding the ME system<br>
 you can store and craft at the same time<br>
 <br>
+[Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei "Just Enough Items")<br>
+JEI is a must have if you are installing one or more mods in your minecraft world,<br>
+you can see the controls in the link.<br>
+<br>
 I also recomend to have any mod which adds more bows. <br>
-All these mods are available for 1.16 so there is no reason not to get them.<br>
-I hope you enjoy the mods I have listed and bye for now. <br>
+All these mods are available for 1.16.<br>
+I hope you enjoy the mods I have listed and bye for now.<br>
