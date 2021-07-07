@@ -3,7 +3,7 @@ layout: post
 title: "Minecraft Mods"
 blogtitle: "Best Minecraft Mods"
 titledescription: "Best Minecraft Mods"
-tags: mc
+tags: mcmods
 author: rishi
 ---
 So you want some mods for minecraft well you have come to the right place. Enough of this blabbering lets get right in.<br>

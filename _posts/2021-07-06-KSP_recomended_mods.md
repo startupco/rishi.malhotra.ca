@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome"
-blogtitle: "Welcome to the site"
-titledescription: "intro to the site"
-tags: intro
+title: "KSP Mods"
+blogtitle: "Best KSP Mods"
+titledescription: "Best KSP Mods"
+tags: kspmods
 author: rishi
 ---
 So want some mods for kerbal space program you have came to the right place. Enough chatting let get right in.<br>
